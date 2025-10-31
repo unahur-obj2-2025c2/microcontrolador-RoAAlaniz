@@ -6,7 +6,6 @@ Un **microcontrolador** es una computadora integrada en uno o varios chips. Suel
 - ⏱️ Un _program counter_ (PC), que indica la dirección en la memoria de programa de la próxima instrucción a ejecutar. Se incrementa cada vez que el microcontrolador ejecuta una instrucción.
 - 💾 Un área de **1024 valores enteros** correspondiente a la memoria de datos.
 
-![estado_interno](./assets/MicroEstadoInterno.png)
 
 El fabricante nos proporcionó la lista de operaciones mínimas que debe soportar:
 
